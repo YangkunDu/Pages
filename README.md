@@ -1,6 +1,13 @@
 ## Welcome to GitHub Pages
 
 # Yangkun
+text
+
+$$\begin{aligned}
+E = mc^2
+\end{aligned}$$
+
+text
 
 You can use the [editor on GitHub](https://github.com/YangkunDu/Pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
